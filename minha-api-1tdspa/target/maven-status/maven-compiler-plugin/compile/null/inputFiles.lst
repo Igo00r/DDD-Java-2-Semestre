@@ -1,0 +1,12 @@
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/CardResource.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/ColecaoResource.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/GreetingResource.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/entities/Card.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/entities/Colecao.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/entities/MyEntity.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/entities/_BaseEntity.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/extensions/LocalDateTimeGsonAdapter.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/infrastructure/AppTestConfig.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/infrastructure/DatabaseConfig.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/repositories/ColecaoRepository.java
+/Users/leonardo.romao/IdeaProjects/minha-api-1tdspa/src/main/java/fiap/tds/repositories/CrudRepository.java
